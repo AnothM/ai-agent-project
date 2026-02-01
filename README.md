@@ -30,7 +30,7 @@ This agent is intended for learning purposes only in isolated, controlled enviro
 ## Setup
 
 1. **Clone the repository**
-   git clone <your-repo-url>
+   git clone (https://github.com/AnothM/ai-agent-project)
    cd ai_agent
 
 2. Create a .env file with your API key:
